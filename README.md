@@ -4,7 +4,7 @@
 |------------|-----------------------------|-----------------------------------------------------|------------------------|-----------|
 | 1          | Simple Arithmetic Calculation | Fixed point data transfer using AXI Lite interface  | 2019.1                 | PYNQ Z2   |
 | 2          | Matrix Multiplication       | Floating point data transfer using AXI Stream interface | 2019.1                 | PYNQ Z2   |
-| 3          | Simple Arithmetic Calculation | Fixed point data transfer using AXI Lite interface  | 2022.1                 | PYNQ Z2   |
+| 3          | Simple Arithmetic Calculation | Fixed point data transfer using AXI Lite interface  | 2022.1                 | RFSoC4x2   |
 | 4          | Matrix Multiplication       | Floating point data transfer using AXI Stream interface | 2022.1                 | PYNQ Z2   |
 | 5          | Simple Arithmetic Calculation | Fixed point data transfer using AXI Lite interface  | 2022.1                 | RFSoC4x2  |
 | 6          | Simple Arithmetic Calculation | Floating point data transfer using AXI Lite interface | 2022.1                 | RFSoC4x2  |
