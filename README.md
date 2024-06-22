@@ -4,15 +4,14 @@
 |------------|-----------------------------|-----------------------------------------------------|------------------------|-----------|
 | 1          | Simple Arithmetic Calculation | Fixed point data transfer using AXI Lite interface  | 2019.1                 | PYNQ Z2   |
 | 2          | Matrix Multiplication       | Floating point data transfer using AXI Stream interface | 2019.1                 | PYNQ Z2   |
-| 3          | Addition 1                  | Fixed point data transfer using AXI Stream interface | 2019.1                 | PYNQ Z2   |
-| 4          | Simple Arithmetic Calculation | Fixed point data transfer using AXI Lite interface  | 2022.1                 | PYNQ Z2   |
-| 5          | Matrix Multiplication       | Floating point data transfer using AXI Stream interface | 2022.1                 | PYNQ Z2   |
-| 6          | Simple Arithmetic Calculation | Fixed point data transfer using AXI Lite interface  | 2022.1                 | RFSoC4x2  |
-| 7          | Simple Arithmetic Calculation | Floating point data transfer using AXI Lite interface | 2022.1                 | RFSoC4x2  |
-| 8          | Matrix Multiplication       | Floating point data transfer using AXI Stream interface | 2022.1                 | RFSoC4x2  |
-| 9          | Addition 1                  | Fixed point data transfer using AXI Stream interface | 2022.1                 | RFSoC4x2  |
-| 10         | Addition 2                  | Floating point data transfer using AXI Stream interface | 2022.1                 | RFSoC4x2  |
-| 11         | Aggregation                 | Using aggregate pragma                               | 2022.1                 | RFSoC4x2  |
+| 3          | Simple Arithmetic Calculation | Fixed point data transfer using AXI Lite interface  | 2022.1                 | PYNQ Z2   |
+| 4          | Matrix Multiplication       | Floating point data transfer using AXI Stream interface | 2022.1                 | PYNQ Z2   |
+| 5          | Simple Arithmetic Calculation | Fixed point data transfer using AXI Lite interface  | 2022.1                 | RFSoC4x2  |
+| 6          | Simple Arithmetic Calculation | Floating point data transfer using AXI Lite interface | 2022.1                 | RFSoC4x2  |
+| 7          | Matrix Multiplication       | Floating point data transfer using AXI Stream interface | 2022.1                 | RFSoC4x2  |
+| 8          | Addition 1                  | Fixed point data transfer using AXI Stream interface | 2022.1                 | RFSoC4x2  |
+| 9         | Addition 2                  | Floating point data transfer using AXI Stream interface | 2022.1                 | RFSoC4x2  |
+| 10         | Aggregation                 | Using aggregate pragma                               | 2022.1                 | RFSoC4x2  |
 
 # Sources
 [Algorithms to Architure Lab IIITD](https://youtu.be/Nj6JRQzwpwk?feature=shared)
