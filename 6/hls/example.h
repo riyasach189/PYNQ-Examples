@@ -1,0 +1,1 @@
+typedef hls::axis<float, 0, 0, 0> outSdCh;
